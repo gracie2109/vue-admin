@@ -1,0 +1,22 @@
+{
+    "locale": {
+      "en": "Tiếng Anh",
+      "vi": "Tiếng Việt"
+    },
+    "nav": {
+      "home": "trang chủ",
+      "about": "thông tin"
+    },
+    "common": {
+      "settingTheme": "Cài đặt theme",
+      "chooseTheme": "Chọn màu chủ đạo",
+      "changeThemeLayout": "Đổi theme và layout ",
+      "themeWarning": "Lưu ý: Cài đặt này chỉ hợp lệ đối với các trang không có bộ bố cục hoặc được đặt theo hệ thống. Bố cục do menu đặt có mức ưu tiên cao nhất."
+    },
+  "pageMeta": {
+    "home": "Trang chủ "
+  },
+  "petsPage": {
+    "title": "Danh sách thú nuôi"
+  }
+  }

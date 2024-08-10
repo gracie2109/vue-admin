@@ -1,0 +1,23 @@
+{
+    "locale": {
+      "en": "English",
+      "vi": "Vietnamese"
+    },
+    "nav": {
+      "home": "Home",
+      "about": "About"
+    },
+
+    "common": {
+      "settingTheme": "Setting Theme",
+      "chooseTheme": "Choose theme color",
+      "changeThemeLayout": "Change App Theme & Layout",
+      "themeWarning": "Note: This setting is only valid for pages that do not have a layout set or are set by the system. The layout set by the menu has the highest priority."
+    },
+    "pageMeta": {
+      "home": "HOME"
+    },
+  "petsPage": {
+    "title": "List Pet"
+  }
+}
